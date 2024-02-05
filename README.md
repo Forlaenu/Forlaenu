@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning js and python
 - 🌱 I’m currently learning full stack development
 - 💞️ I’m looking to collaborate on ... dont know yet
-- 📫 How to reach me ... (intentionally left blank)
+- 📫 How to reach me: https://www.linkedin.com/in/cayden-cox-aa980a25/
 
 <!---
 Forlaenu/Forlaenu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
